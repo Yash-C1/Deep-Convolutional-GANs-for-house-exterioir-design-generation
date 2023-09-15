@@ -5,4 +5,6 @@ Generative Adversarial Networks (GANs) have gained significant popularity in the
    https://www.kaggle.com/datasets/ted8080/house-prices-and-images-socal  
      
    Sample images from the dataset are - 
+   ![Output]()
+
    
