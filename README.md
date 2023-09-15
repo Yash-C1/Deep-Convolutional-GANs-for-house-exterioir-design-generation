@@ -5,6 +5,6 @@ Generative Adversarial Networks (GANs) have gained significant popularity in the
    https://www.kaggle.com/datasets/ted8080/house-prices-and-images-socal  
      
    Sample images from the dataset are -  
-   ![Output](https://github.com/Yash-C1/ExteriorVision-Deep_Convolutional_GAN_for_home_design_generation/blob/main/sample.png)
+   ![Output](https://github.com/Yash-C1/ExteriorVision-Deep_Convolutional_GAN_for_home_design_generation/blob/main/sample_images.png)
 
    
