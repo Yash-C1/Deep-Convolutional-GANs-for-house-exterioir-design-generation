@@ -8,3 +8,6 @@ Generative Adversarial Networks (GANs) have gained significant popularity in the
    ![Output](https://github.com/Yash-C1/ExteriorVision-Deep_Convolutional_GAN_for_home_design_generation/blob/main/sample_images.png)
 
    
+## Visualizing Training Progress - 
+  You can track the training progress of ExteriorVision's DCGAN model epoch by epoch. I have implemented GPU acceleration using Kaggle's GPU infrastructure, allowing you to visualize the generated home design images throughout the training process.
+  https://www.kaggle.com/code/yashchaudhari369/house-image-generator
