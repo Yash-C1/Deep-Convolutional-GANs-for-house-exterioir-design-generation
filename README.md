@@ -10,7 +10,7 @@ Generative Adversarial Networks (GANs) have gained significant popularity in the
 
    
 ## Visualizing Training Progress - 
-  You can track the training progress of ExteriorVision's DCGAN model epoch by epoch. I have implemented GPU acceleration using Kaggle's GPU infrastructure, allowing you to visualize the generated home design images throughout the training process.  
+  The training progress of ExteriorVision's DCGAN model can be tracked epoch by epoch. I have implemented GPU acceleration using Kaggle's GPU infrastructure, allowing you to visualize the generated home design images throughout the training process.  
     
 
 
